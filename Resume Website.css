@@ -1,0 +1,67 @@
+header {
+	
+  background-color: #666;
+  padding: -100px;
+  text-align: center;
+  font-size: 100px;
+  color: black;
+}
+
+body{
+	
+	
+	background:url("pattern.png");
+			background-repeat: repeat-x;
+}
+
+    }
+h1 { 
+    font-family: "helvetica";
+    color: rgb(00,00,00);
+    text-align:left; 
+    margin-left: 80px;
+    margin-top: 120px;
+    font-size: 60px;
+}
+h2 {
+	
+	font-family: sans-serif;
+	margin-left: 100px;
+	font-size: 4em;
+	
+}
+
+h4 {
+	margin-left: 150px;
+}
+
+.h2 {
+font-family: sans-serif;
+	font-size: 16px;
+}
+p {
+	
+	font-family: "helvetica" ;
+	text-align: "center" ;
+}
+
+nav {
+  float: left;
+  width: 30%;
+  height: 200px;
+  background: #ccc;
+  padding: 20px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+}
+nav ul {
+	font-family: sans-serif;
+  list-style-type: none;
+  padding: 0;
+}
+
+ol {
+	
+	font-family: "helvetica";
+	font-size: auto;
+	
+}
